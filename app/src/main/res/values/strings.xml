@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherMap</string>
+    <string name="lookup">Lookup</string>
+    <string name="city_name">City Name</string>
+    <string name="temperature">Temp: %1$s</string>
+    <string name="feels_like">Feels Like: %1$s</string>
+</resources>
